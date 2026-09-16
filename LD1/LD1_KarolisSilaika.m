@@ -22,8 +22,6 @@ ylabel('F_1 [-o-]  |  F_2 [-x-]')
 % doc plot
 % help title
 % doc title
-
-% linspace, size, max sintakses issiaiskinimas:
 % help linspace
 % help size
 % help max
