@@ -1,7 +1,7 @@
 %
 % LD1_KarolisSilaika.m
 % Karolis Silaika
-% EF-25/1
+% Ef-25/1
 % 2026-09-16
 %
 %% Paprastas skriptas
