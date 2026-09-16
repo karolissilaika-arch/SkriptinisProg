@@ -4,9 +4,7 @@
 % EF-25/1
 % 2026-09-16
 %
-
 %% Paprastas skriptas
-
 x = 1:32;
 y = x.^2;
 
